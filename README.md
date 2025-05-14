@@ -164,7 +164,7 @@ Important : ça ne marche qu'avec des url d'images prises sur le web.
 
 `![inta11ysolutions.org](https://inta11ysolutions.org/src/img/INTA11Y-Solutions.png)`
 
-![inta11ysolutions.org](https://inta11ysolutions.org/src/img/INTA11Y-Solutions.png)
+![[inta11ysolutions.org](https://inta11ysolutions.org/)](https://inta11ysolutions.org/src/img/INTA11Y-Solutions.png)
 
 -----------------
 
